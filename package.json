@@ -2,7 +2,7 @@
   "name": "trello-boards",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ravinm96.github.io/trelloBoards",
+  "homepage": "https://ravinm96.github.io/trelloBoards/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
