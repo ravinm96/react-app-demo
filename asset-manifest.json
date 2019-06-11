@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/trelloBoards/static/css/main.ae768b8c.chunk.css",
+    "main.js": "/trelloBoards/static/js/main.7a684885.chunk.js",
+    "main.js.map": "/trelloBoards/static/js/main.7a684885.chunk.js.map",
+    "runtime~main.js": "/trelloBoards/static/js/runtime~main.48846dc2.js",
+    "runtime~main.js.map": "/trelloBoards/static/js/runtime~main.48846dc2.js.map",
+    "static/js/2.1a74b49b.chunk.js": "/trelloBoards/static/js/2.1a74b49b.chunk.js",
+    "static/js/2.1a74b49b.chunk.js.map": "/trelloBoards/static/js/2.1a74b49b.chunk.js.map",
+    "index.html": "/trelloBoards/index.html",
+    "precache-manifest.c5fa8918f4d52a986c275bb59349568e.js": "/trelloBoards/precache-manifest.c5fa8918f4d52a986c275bb59349568e.js",
+    "service-worker.js": "/trelloBoards/service-worker.js",
+    "static/css/main.ae768b8c.chunk.css.map": "/trelloBoards/static/css/main.ae768b8c.chunk.css.map"
+  }
+}
